@@ -1,0 +1,18 @@
+      h1 {
+        color: darkblue;
+        background-color: blue;
+        text-transform: capitalize;
+        font-size: 50px;
+      }
+      #content {
+        color: rgb(229, 21, 188);
+      }
+      #content1 {
+        color: darkorange;
+        background-color: yellow;
+      }
+      #content2 {
+        color: darkgreen;
+        background-color: lightgreen;
+        text-transform: capitalize;
+      }
